@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Pat-A-Tap is a fun web application built with JavaScript and Paper.js library that allows users to create and play their own beats by simply tapping on the keyboard keys.
+Pat-A-Tap is a fun web application built with JavaScript that allows users to create and play their own beats by simply tapping on the keyboard keys.
 
 The user can tap on the keyboard keys to create different sounds, and the application will animate corresponding circles on the screen, giving a visual representation of the beat.
 
@@ -28,6 +28,7 @@ The user can tap on the keyboard keys to create different sounds, and the applic
 The project uses the following libraries:
 
 - [Paper.js](http://paperjs.org/) for animations.
+- [Howler.js](https://howlerjs.com/) for audio.
 
 
 ## Credits
